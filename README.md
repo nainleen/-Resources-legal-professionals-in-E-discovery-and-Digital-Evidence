@@ -35,24 +35,21 @@ If parties fail to cooperate and judges or magistrate judges become involved, pa
 
 Don't let opposing counsel or judges impose a set pattern on the process. Just because one approach has worked for them in the past, doesn't mean it's always the right way to proceed. In addition, don't let the other party's timeline get in the way of what you need to do. The rules clearly state that, “methods of discovery may be used in any sequence,“ and “discovery by one party does not require any other party to delay its discovery.”
 
-### Rule 34(b): Get Data How You Want It
-
-### Rule 34(b) 
+### Rule 34(b): Get Data How You Want It Rule 34(b) 
 Allows the requesting party to decide how it wants information to be produced and lets the responding party object if impractical. Note that if the requesting party fails to specify the form for producing data, the producing party has the option to either produce the information in a form in which it is ordinarily maintained, or in an electronically search-able form. Courts have rebuked parties that produce data in printed or other non-native formats. (When in doubt, get the native format. It retains potentially useful metadata and is usually easier to access.)
 
-### Rule 37: Still a Safe Harbor?
-
-### Rule 37(f) 
+### Rule 37: Still a Safe Harbor? Rule 37(f) 
 Used to be known as the “safe harbor” provision. However, few legal teams used this provision. The amended Rule 37(e) allows sanctions for failure to preserve ESI, but limits sanctions for failure to preserve so that negligence, even gross negligence, will not be sufficient for imposition of most severe penalties. Under the amended rule, courts may only sanction parties if one party is found to have “intent to deprive another party” of information and if that information cannot be recovered or produced from another source. If electronically stored information that should have been preserved in the anticipation or conduct of litigation is lost because a party failed to take reasonable steps to preserve it, and it cannot be restored or replaced through additional discovery, the court may impose sanctions.
 
-### Rule Rule 26(b)(1): Keep it in Proportion
-
-### The old rule 26(b)(2)(C)(iii) 
+### Rule Rule 26(b)(1): Keep it in Proportion The old rule 26(b)(2)(C)(iii) 
 Was clear that a court could limit discovery when the burden outweighed benefit. However, new Rule 26(b)(1), implemented by the December 1, 2015 amendments, takes the factors in these old requirements and puts them at the heart of any discussion about the scope of discovery.
 
-# ERMD Model
+# ERMD Model or Diagram
+
+The EDRM consists of nine stages, which we will describe. The process begins with information governance, identification, preservation, and collection. The data management functions include processing, review, analysis, production, and presentation.
 
 ### EDRM Stages
+
 Information Governance – Getting your electronic house in order to mitigate risk & expenses should e-discovery become an issue, from initial creation of ESI (electronically stored information) through its final disposition.
 
 Identification – Locating potential sources of ESI & determining its scope, breadth & depth.
