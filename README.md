@@ -4,6 +4,9 @@ Welcome to Resources legal professionals in E discovery and Digital Evidence.
 
 If you are a total e-discovery novice or an experienced practitioner, we hope this guide will provide you with a lot of useful information that you can apply to your day-to-day professional life.
 
+# Introduction to e-Discovery
+I will describes and defines electronic discovery, or “e-discovery,” for anyone involved in the processes of litigation or investigations. It should provide an introduction and overview of the basic concepts and terms you will need to begin any conversation around the practice of electronic discovery. Following chapters will dive into more nuanced and specific issues within the process of managing electronic evidence in litigation.
+
 # What is Electronic Discovery (E-Discovery  e-discovery)?
 
 Electronic discovery is a procedure by which parties involved in a legal case preserve, collect, review, and exchange information in electronic formats for the purpose of using it as evidence in the case. 
@@ -15,3 +18,4 @@ There are many different types of electronic formats - or electronically stored 
 Because we have an entire section devoted to the various e-discovery stages . One thing to know right off the bat is that e-discovery is not a single action – like taking a deposition or filing a motion - rather - e-discovery is a process comprised of many linked actions that starts from the time a lawsuit is reasonably foreseeable all the way until documents are presented in court. 
 
 The e-discovery process is set in motion as soon as the litigation is reasonably foreseeable, which triggers the legal duty to preserve potentially relevant ESI. Attorneys from both sides determine the scope of e-discovery, identify and preserve (lockdown) the relevant ESI, and make e-discovery requests and challenges. Once parameters are set, ESI is then collected, analyzed, and formatted for use in court. Don't let this simplified description fool you. E-Discovery is a dynamic, complex process that challenges even the most experienced legal and technical minds. 
+
