@@ -10,4 +10,3 @@ Electronic discovery is a procedure by which parties involved in a legal case pr
 
 There are many different types of electronic formats - or electronically stored information (ESI), as it is known in the e-discovery world - that may be sought in e-discovery, ranging from common data sources, such as basic email and Microsoft Word documents, to more arcane ones like files from a company-specific database. One thing to note, if you hadn't already, is the "e" in e-discovery standards for electronic. 
 
-A final point here is that there is a big difference between criminal e-discovery and civil e-discovery. For the purposes of this guide we are going to focus on civil e-discovery.
