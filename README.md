@@ -5,7 +5,7 @@ Welcome to Resources legal professionals in E discovery and Digital Evidence.
 If you are a total e-discovery novice or an experienced practitioner, we hope this guide will provide you with a lot of useful information that you can apply to your day-to-day professional life.
 
 # Introduction to e-Discovery
-I will describes and defines electronic discovery, or “e-discovery,” for anyone involved in the processes of litigation or investigations. It should provide an introduction and overview of the basic concepts and terms you will need to begin any conversation around the practice of electronic discovery. Following chapters will dive into more nuanced and specific issues within the process of managing electronic evidence in litigation.
+I will describes and defines electronic discovery, or “e-discovery,” for anyone involved in the processes of litigation or investigations. It should provide an introduction and overview of the basic concepts and terms you will need to begin any conversation around the practice of electronic discovery. Following will dive into more nuanced and specific issues within the process of managing electronic evidence in litigation.
 
 # What is Electronic Discovery (E-Discovery  e-discovery)?
 
