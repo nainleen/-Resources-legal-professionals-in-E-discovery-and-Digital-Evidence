@@ -50,3 +50,15 @@ Used to be known as the “safe harbor” provision. However, few legal teams us
 ### The old rule 26(b)(2)(C)(iii) 
 Was clear that a court could limit discovery when the burden outweighed benefit. However, new Rule 26(b)(1), implemented by the December 1, 2015 amendments, takes the factors in these old requirements and puts them at the heart of any discussion about the scope of discovery.
 
+# ERMD Model
+
+### EDRM Stages
+Information Governance – Getting your electronic house in order to mitigate risk & expenses should e-discovery become an issue, from initial creation of ESI (electronically stored information) through its final disposition.
+Identification – Locating potential sources of ESI & determining its scope, breadth & depth.
+Preservation – Ensuring that ESI is protected against inappropriate alteration or destruction.
+Collection – Gathering ESI for further use in the e-discovery process (processing, review, etc.).
+Processing – Reducing the volume of ESI and converting it, if necessary, to forms more suitable for review & analysis.
+Review – Evaluating ESI for relevance & privilege.
+Analysis – Evaluating ESI for content & context, including key patterns, topics, people & discussion.
+Production – Delivering ESI to others in appropriate forms & using appropriate delivery mechanisms.
+Presentation – Displaying ESI before audiences (at depositions, hearings, trials, etc.), especially in native & near-native forms, to elicit further information, validate existing facts or positions, or persuade an audience.
