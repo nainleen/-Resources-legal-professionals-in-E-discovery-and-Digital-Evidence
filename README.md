@@ -68,3 +68,10 @@ Production – Delivering ESI to others in appropriate forms & using appropriate
 
 Presentation – Displaying ESI before audiences (at depositions, hearings, trials, etc.), especially in native & near-native forms, to elicit further information, validate existing facts or positions, or persuade an audience.
 
+
+# Digital Evidence
+Digital evidence includes information on computers, audio files, video recordings, and digital images. This evidence is essential in computer and Internet crimes, but is also valuable for facial recognition, crime scene photos, and surveillance tapes.
+1. Audio Evidence
+2. Computer/Internet Crimes
+3. Image Analysis
+4. Video Analysis
