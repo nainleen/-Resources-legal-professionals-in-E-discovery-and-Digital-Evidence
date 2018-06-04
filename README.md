@@ -21,7 +21,7 @@ The e-discovery process is set in motion as soon as the litigation is reasonably
 
 # The rules you need to know
 
-Rule 26(f): Setting the Ground Rules
+### H3 Rule 26(f): Setting the Ground Rules
 
 The actual negotiation will begin with what is known as a 26(f) Conference, which happens before any discovery can occur. The courts have made it clear these conferences should happen as early as possible and parties should agree on foundational principles like the forms of production. If parties can't agree within two weeks, they face the judge for what is known as the Rule 16 Conference. Once an actual discovery request is issued, the responding party may object, under Rule 26(c) and 37(a).
 
