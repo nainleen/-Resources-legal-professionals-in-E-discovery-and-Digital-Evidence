@@ -85,12 +85,12 @@ Digital devices are everywhere in today’s world, helping people communicate lo
 
 Information that is stored electronically is said to be “digital” because it has been broken down into digits; binary units of ones (1) and zeros (0), that are saved and retrieved using a set of instructions called software or code. Any kind of information—photographs, words, spreadsheets—can be created and saved using these types of instructions. Finding and exploiting evidence saved in this way is a growing area of forensics and constantly changes as the technology evolves.
 
-# Internet
+### Internet
 
 The launch of the Internet or World Wide Web in the mid 1990s truly ushered in the “age of access.” For the first time, individuals outside the academic world could use it to connect with others (and their computers) in a brand new way. The Internet opened up access to a world of information and resources, but also provided a highway for the traffic of illegal images, information and espionage.
 
-# Computers
+### Computers
 In the late 1970s, employees at the Flagler Dog Track in Florida used a computer to create and print fraudulent winning tickets. This prompted Florida to enact the first computer crime law, the Florida Computer Crimes Act, which declared un-authorized use of computing facilities a crime. Federal laws followed in 1984. Computer crimes continue to be a growing problem in both the public and private sector. A single computer can contain evidence of criminal activity carried out on the web, or the criminal use can be contained in the computer itself, such as pornography, copyright infringement, extortion, counterfeiting and much more. Digital evidence is located on the computer’s hard drive and peripheral equipment, including removable media such as thumb drives and CD-ROM discs.
 
-# Mobile devices
+### Mobile devices
 Although handheld voice transmission devices using radio transmission have been in use since the 1940s (the Walkie-Talkie), the first version of what we would now call a cell phone was not developed until the 1980s. Cell phone use around the world skyrocketed in the 1990s and hit 4.6 billion cell subscriptions by the end of 2009. Cell phone and wireless technology has expanded to include many types of mobile devices such as tablet computers and hand-held video games. Once used only for voice communications, today’s cell phones are also used to take digital photos and movies, send instant messages, browse the web and perform many of the same tasks as a computer. Mobile devices allow criminals to engage in an ever-growing variety of activities and the devices keep track of every move and message. It is this tracking capability that turns mobile devices into key evidence in many cases.
