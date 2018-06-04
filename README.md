@@ -4,7 +4,7 @@ Welcome to Resources legal professionals in E discovery and Digital Evidence.
 
 If you are a total e-discovery novice or an experienced practitioner, we hope this guide will provide you with a lot of useful information that you can apply to your day-to-day professional life.
 
-# What is Electronic Discovery (E-Discoveror  e-discovery)?
+# What is Electronic Discovery (E-Discovery  e-discovery)?
 
 Electronic discovery is a procedure by which parties involved in a legal case preserve, collect, review, and exchange information in electronic formats for the purpose of using it as evidence in the case. 
 
