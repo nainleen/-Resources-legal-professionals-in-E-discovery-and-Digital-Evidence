@@ -95,7 +95,7 @@ In the late 1970s, employees at the Flagler Dog Track in Florida used a computer
 ### Mobile devices
 Although handheld voice transmission devices using radio transmission have been in use since the 1940s (the Walkie-Talkie), the first version of what we would now call a cell phone was not developed until the 1980s. Cell phone use around the world skyrocketed in the 1990s and hit 4.6 billion cell subscriptions by the end of 2009. Cell phone and wireless technology has expanded to include many types of mobile devices such as tablet computers and hand-held video games. Once used only for voice communications, today’s cell phones are also used to take digital photos and movies, send instant messages, browse the web and perform many of the same tasks as a computer. Mobile devices allow criminals to engage in an ever-growing variety of activities and the devices keep track of every move and message. It is this tracking capability that turns mobile devices into key evidence in many cases.
 
-# ADAM Principles	
+### ADAM Principles	
 Building on the ACPO Guidelines with a more generic application outside of law enforcement, a doctoral thesis proposed the following overriding principles to be followed by digital forensic practitioners
 
 1. The activities of the digital forensic practitioner should not alter the original data. If the requirements of the work mean that this is not possible then the effect of the practitioner’s actions on the original data should be clearly identified and the process that caused any changes justified.
@@ -106,6 +106,10 @@ Building on the ACPO Guidelines with a more generic application outside of law e
 6. The practitioner must be aware of all organisational policies and procedures relating to their activities
 7. Communication must be maintained as appropriate with the client, legal practitioners, supervisors and other team members
 
-# Best evidence rule
+### Best evidence rule
 
 Digital evidence is almost never in a format readable by humans, requiring additional steps to include digital documents as evidence (i.e. printing out the material). It has been argued that this change of format may mean digital evidence does not qualify under the "best evidence rule".However, the "Federal Rules of Evidence" rule 1001 states "if data are stored in a computer…, any printout or other output readable by sight, shown to reflect the data accurately, is an ‘original.’
+
+
+# 15 Types of Evidence and How to Use Them
+https://i-sight.com/resources/15-types-of-evidence-and-how-to-use-them-in-investigation/
