@@ -207,7 +207,7 @@ Read more about it here: http://www.sleuthkit.org/
 
 
 
-9. Llibforensics
+### 9. Llibforensics
 
 Libforensics is a library for developing digital forensics applications. It was developed in Python and comes with various demo tools to extract information from various types of evidence.
 
@@ -329,4 +329,38 @@ Cellebrite’s UFED solutions present a unified workflow to allow examiners, inv
 More information here: http://www.cellebrite.com/Mobile-Forensics
 
 
+
+# Comparison of FORENSIC TOOL : ENCASE vs FTK
+
+### EnCase
+* GUI : Confusing for new user , very user friendly GUI.
+* Timeline : Encase supports timeline view.
+* Encase has its own image format ( Encase image file format) used to store various types of digital evidence.
+* Encase supports more file system than FTK.
+* SEARCHING : Encase uses its own search engine , Live and Indexed search supported.
+* HASHING : Encase supports only MD5 (Message Digest 5).
+* RAID : Encase supports several Dynamic Disk Configuration as compared to FTK.
+* DELETED FILES, bad SIGNATURE : Encase does not highlight a file with Bad signature , it simply displays it.
+* CARVING : Encase supports recovering of  deleted files and filenames on EXT 2/3 File Systems.
+* SCRIPTING : Encase uses its own script known as EnScript.
+* REPORTING : Encase supports reports in RTF or HTML format.
+
+### FTK
+* GUI : Rated most user friendly forensic tool.
+* Timeline : FTK does not support timeline view.
+* FTK supports more image formats than encase.
+* FTK cannot handle compressed drives like DoubleSpace (DoubleSpace is a technology that compresses data stored by the FAT file system in real time. Real time means that data is compressed and decompressed as it is written and read).
+* SEARCHING : FTK search takes longer , has good features as Live and indexed Search.
+* HASHING : FTK supports Message Digest 5 (MD5) and Secure Hash Algorithm (SHA-1).
+* DELETED FILES, bad SIGNATURE : FTK highlights if a file contains Bad signature followed by (x) symbol next to a file which is deleted.
+* CARVING : FTK doesn't supports recovering of deleted files on EXT 2/3 File Systems.
+* SCRIPTING : FTK doesn't supports scripting.
+* REPORTING : FTK supports reports only in HTML format.
+
+
+### CONCLUSION:
+
+Both of tools are super good, thorough and complete forensic investigation,  Can we see both the tools, have some common and some unique special features which aid in the investigation, it is suggested to use both the tools for investigation.
+
+The professional saids If only one tool is to be chosen, EnCase leads FTK due to its advanced features.
 
