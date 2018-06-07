@@ -332,7 +332,13 @@ More information here: http://www.cellebrite.com/Mobile-Forensics
 
 # Comparison of FORENSIC TOOL : ENCASE vs FTK
 
+### Introduction
+Will be compare two of the forensic tools. The tools that are covered in the article are Encase and FTK. 
+
 ### EnCase
+
+EnCase is a product which has been designed for forensics, digital security, security investigation, and e-discovery use. Encase is customarily utilized to recoup proof from seized hard drives. Encase enables the specialist to direct a top to bottom inves
+
 * GUI : Confusing for new user , very user friendly GUI.
 * Timeline : Encase supports timeline view.
 * Encase has its own image format ( Encase image file format) used to store various types of digital evidence.
@@ -345,7 +351,10 @@ More information here: http://www.cellebrite.com/Mobile-Forensics
 * SCRIPTING : Encase uses its own script known as EnScript.
 * REPORTING : Encase supports reports in RTF or HTML format.
 
+
 ### FTK
+The Forensic Toolkit, or FTK, is a computer forensic investigation software package created by AccessData. It examines a hard drive by searching for different information. It can, for instance, find deleted emails and can also scan the disk for content strings. These can then be used as a secret key word reference to break any encryption. The toolbox incorporates an independent disk imaging program called the FTK Imager. It saves an image of a hard disk in one document or in different segments which can then be recreated later. It computes MD5 hash values and affirms the integrity of the information before closing of the documents. The outcome is an image file(s) that can be saved in a several formats.
+
 * GUI : Rated most user friendly forensic tool.
 * Timeline : FTK does not support timeline view.
 * FTK supports more image formats than encase.
