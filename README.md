@@ -369,7 +369,7 @@ The Forensic Toolkit, or FTK, is a computer forensic investigation software pack
 
 ### CONCLUSION:
 
-Both of tools are super good, thorough and complete forensic investigation,  Can we see both the tools, have some common and some unique special features which aid in the investigation, it is suggested to use both the tools for investigation.
+In this part we covered the difference between two forensic tools. Both of tools are super good, thorough and complete forensic investigation,  Can we see both the tools, have some common and some unique special features which aid in the investigation, it is suggested to use both the tools for investigation. And it is important to note that there are many other forensic tools out there, it is not just limited to this list. Finding the right one to use is a direct function of the kind or type of case the forensics investigator is currently working on.
 
 The professional saids If only one tool is to be chosen, EnCase leads FTK due to its advanced features.
 
